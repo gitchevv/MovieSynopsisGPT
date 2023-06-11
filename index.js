@@ -155,8 +155,3 @@ async function fetchImageURL(imgPrompt) {
 }
 
 
-/*
- Saruman goes shopping in Lidl but is surprised to find out that his nemesis Gandalf The Grey was there first.
-
- An evil genius tries to stop the internet on planet Earth but is faced with a team of 3 friends who are trying to stop him.
-*/
