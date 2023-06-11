@@ -1,6 +1,6 @@
 # MoviePrompt   
 
-Small JS project using ChatGPT API to create a movie synopsis, title and image poster based on a sentence by the user. 
+Small JS project using ChatGPT API. Creates a fictional movies synopsis, title and poster image from a one sentence user input. 
 
 Quick start:
 
